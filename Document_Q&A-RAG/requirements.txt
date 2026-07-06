@@ -1,0 +1,15 @@
+langchain
+langchain_core
+langchain_community
+langchain-mistralai
+chromadb
+sentence-transformers
+pypdf
+unstructured
+beautifulsoup4
+tiktoken
+python-dotenv
+fastapi
+streamlit
+tqdm
+langchain_text_splitter
